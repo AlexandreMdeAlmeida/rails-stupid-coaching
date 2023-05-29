@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+.btn-primary {
+  margin-left: -4px;
+}
+
+.container-answer {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
